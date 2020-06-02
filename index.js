@@ -13,8 +13,8 @@ const { world } = engine;
 
 const width = window.innerWidth;
 const height = window.innerHeight;
-const cellsHorizontal = 5;
-const cellsVertical = 3;
+const cellsHorizontal = 15;
+const cellsVertical = 10;
 
 const unitWidth = width / cellsHorizontal;
 const unitLength = height / cellsVertical;
